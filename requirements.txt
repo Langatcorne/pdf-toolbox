@@ -1,0 +1,26 @@
+# Core PDF manipulation
+PyPDF2>=3.0.0
+
+# Image processing
+Pillow>=9.0.0
+
+# Advanced image operations
+opencv-python>=4.5.0
+
+# OCR support
+pytesseract>=0.3.10
+
+# PDF generation
+reportlab>=3.6.0
+
+# Development & Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+flake8>=4.0.0
+black>=22.0.0
+isort>=5.10.0
+mypy>=0.950
+
+# Documentation
+sphinx>=4.5.0
+sphinx-rtd-theme>=1.0.0
